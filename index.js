@@ -3419,4 +3419,4 @@ Client.on("messageCreate", message => {
     }
 });
 
-Client.login("OTEzNzM2NzYxMTkxMDY3NjYw.YaC1rA.irXx_Ti4cLDo7Ho5NUBFOY2b7LA");
+Client.login(token);

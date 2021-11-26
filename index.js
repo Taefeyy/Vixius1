@@ -3419,4 +3419,4 @@ Client.on("messageCreate", message => {
     }
 });
 
-Client.login(token);
+Client.login(process.env.token);

@@ -3418,4 +3418,4 @@ Client.on("messageCreate", message => {
     }
 });
 
-Client.login("OTEzNzM2NzYxMTkxMDY3NjYw.YaC1rA.MjSZUOKAsRrREW-LuMwp4yjt3x0");
+Client.login(process.env.TOKEN);

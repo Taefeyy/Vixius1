@@ -8,7 +8,7 @@ const Client = new Discord.Client({
     Discord.Intents.FLAGS.DIRECT_MESSAGES
     ]
 });
-const QUESTION_TIMEOUT = 10; // seconds
+const QUESTION_TIMEOUT = 18; // seconds
 
 const prefix = "!question";
 const salonid = "908734123181506581";

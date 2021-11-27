@@ -31,7 +31,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             console.log(y)
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -69,7 +69,7 @@ Client.on("messageCreate", message => {
             var temps = setInterval(function(){
                 var y = x++ ;
                 var z = u-- ;
-                    if (Y == 18 ) {
+                    if (y == 18 ) {
                         Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                         var y = x--;
                         var y = x--;
@@ -106,7 +106,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -145,7 +145,7 @@ Client.on("messageCreate", message => {
             var temps = setInterval(function(){
                 var y = x++ ;
                 var z = u-- ;
-                    if (Y == 18 ) {
+                    if (y == 18 ) {
                         Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                         var y = x--;
                         var y = x--;
@@ -183,7 +183,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -221,7 +221,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -259,7 +259,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -299,7 +299,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -337,7 +337,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -375,7 +375,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -413,7 +413,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -451,7 +451,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -489,7 +489,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -527,7 +527,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -565,7 +565,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -603,7 +603,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -641,7 +641,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -679,7 +679,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -717,7 +717,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -755,7 +755,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -793,7 +793,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -831,7 +831,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -869,7 +869,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -907,7 +907,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -945,7 +945,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -983,7 +983,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1021,7 +1021,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1059,7 +1059,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1097,7 +1097,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1135,7 +1135,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1173,7 +1173,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1211,7 +1211,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1249,7 +1249,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1287,7 +1287,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1325,7 +1325,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1363,7 +1363,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1401,7 +1401,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1439,7 +1439,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1477,7 +1477,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1515,7 +1515,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1553,7 +1553,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1591,7 +1591,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1629,7 +1629,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1667,7 +1667,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1705,7 +1705,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1743,7 +1743,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1781,7 +1781,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1819,7 +1819,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1857,7 +1857,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1895,7 +1895,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -1933,7 +1933,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -1971,7 +1971,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2009,7 +2009,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2047,7 +2047,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2085,7 +2085,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2123,7 +2123,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2161,7 +2161,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2199,7 +2199,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2237,7 +2237,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2275,7 +2275,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2313,7 +2313,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2351,7 +2351,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2389,7 +2389,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2427,7 +2427,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2465,7 +2465,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2503,7 +2503,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2541,7 +2541,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2579,7 +2579,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2617,7 +2617,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2655,7 +2655,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2693,7 +2693,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2731,7 +2731,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2769,7 +2769,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2807,7 +2807,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2845,7 +2845,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2883,7 +2883,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2921,7 +2921,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -2959,7 +2959,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -2997,7 +2997,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3035,7 +3035,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3073,7 +3073,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3111,7 +3111,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3149,7 +3149,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3187,7 +3187,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3225,7 +3225,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3263,7 +3263,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3301,7 +3301,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3339,7 +3339,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3377,7 +3377,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3415,7 +3415,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3453,7 +3453,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3491,7 +3491,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3529,7 +3529,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3567,7 +3567,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3605,7 +3605,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;
@@ -3643,7 +3643,7 @@ Client.on("messageCreate", message => {
         var temps = setInterval(function(){
             var y = x++ ;
             var z = u-- ;
-                if (Y == 18 ) {
+                if (y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
                     var y = x--;
@@ -3681,7 +3681,7 @@ Client.on("messageCreate", message => {
     var temps = setInterval(function(){
         var y = x++ ;
         var z = u-- ;
-            if (Y == 18 ) {
+            if (y == 18 ) {
                 Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                 var y = x--;
                 var y = x--;

@@ -30,6 +30,7 @@ Client.on("messageCreate", message => {
         Client.channels.cache.get(reponseid).send("<@" +silv+ ">"+"\nQuestion : **TEST**");
         var temps = setInterval(function(){
             var y = x++ ;
+            console.log(y)
                 if (Y == 18 ) {
                     Client.channels.cache.get(reponseid).send("Fin du temps imparti");
                     var y = x--;
@@ -51,6 +52,7 @@ Client.on("messageCreate", message => {
                     var y = x--;
                     var y = x--;
                     var y = x--;
+                    console.log(y)
                     clearInterval(temps);
                 }
         }, 1000);
